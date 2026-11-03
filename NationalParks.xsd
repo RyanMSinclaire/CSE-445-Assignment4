@@ -3,8 +3,8 @@
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
 	xmlns="https://github.com/RyanMSinclaire/CSE-445-Assignment4/blob/main/NationalParks.xsd" 
 	targetNamespace="https://github.com/RyanMSinclaire/CSE-445-Assignment4/blob/main/NationalParks.xsd"
-	elementFromDefault="qualified"
-	attributeFromDefault="unqualified">
+	elementFormDefault="qualified"
+	attributeFormDefault="unqualified">
 	<!-- Root -->
 	<xsd:element name="NationalParks" type="NPS"/>
 	
