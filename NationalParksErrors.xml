@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 
-<NationalPark
+<NationalParks
 	xmlns="https://github.com/RyanMSinclaire/CSE-445-Assignment4"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="https://github.com/RyanMSinclaire/CSE-445-Assignment4 https://ryanmsinclaire.github.io/CSE-445-Assignment4/NationalParks.xsd">
@@ -318,4 +318,4 @@
 			</Zip>
 		</Address>
 	</NationalPark>
-</NationalPark>
+</NationalParks>
