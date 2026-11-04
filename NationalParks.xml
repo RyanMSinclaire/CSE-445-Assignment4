@@ -3,8 +3,6 @@
 <NationalParks
 	xmlns="https://github.com/RyanMSinclaire/CSE-445-Assignment4"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<!-- xsi:schemaLocation="https://github.com/RyanMSinclaire/CSE-445-Assignment4 
-	https://ryanmsinclaire.github.io/CSE-445-Assignment4/NationalParks.xsd"> -->
 <NationalPark Rating="4.9">
 		<Name>
 			Grand Canyon
