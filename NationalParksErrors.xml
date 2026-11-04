@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<NationalPark
+	xmlns="https://github.com/RyanMSinclaire/CSE-445-Assignment4"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="https://github.com/RyanMSinclaire/CSE-445-Assignment4 https://ryanmsinclaire.github.io/CSE-445-Assignment4/NationalParks.xsd">
+<NationalPark Rating="4.9">
+		<Name>
+			Grand Canyon
+		</Name>
+		<Phone>
+			928-638-7496
+		</Phone>
+		<Phone>
+			888-297-2757
+		</Phone>
+		<Phone>
+			866-499-2574
+		</Phone>
+		<Address NearestAirport="FlagStaff">
+			<Number>
+				8
+			</Number>
+			<Street>
+				S Entrance Road
+			</Street>
+			<City>
+				Grand Canyon
+			</City>
+			<State>
+				AZ
+			</State>
+			<Zip>
+				86023
+			</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>
+			Great Smoky Mountains
+		</Name>
+		<Address>
+			<Number>
+				107
+			</Number>
+			<Street>
+				Park Headquarters Road
+			</Street>
+			<City>
+				Gatlinburg
+			</City>
+			<State>
+				TN
+			</State>
+			<Zip>
+				37738
+			</Zip>
+	</NationalPark>
+	<NationalPark>
+		<Name>
+			Zion 
+		</Name>
+		<Name>
+			Ryan
+		</Name>
+		<Phone>
+			435-772-3256
+		</Phone>
+		<Address NearestAirport="SGU">
+			<Number>
+				1
+			</Number>
+			<Street>
+				Zion Park Blvd
+			</Street>
+			<City>
+				Springdale
+			</City>
+			<State>
+				UT
+			</State>
+			<Zip>
+				84767
+			</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>
+			Yellowstone
+		</Name>
+		<Phone>
+			307-344-7381
+		</Phone>
+		<Phone>
+			307-344-2117
+		</Phone>
+		<Phone>
+			307-344-2751
+		</Phone>
+		<Address NearestAirport="WYS">
+			<Number>
+				0
+			</Number>
+			<Street>
+				View Avenue
+			</Street>
+			<City>
+				Yellowstone National Park
+			</City>
+			<State>
+				WY
+			</State>
+			<Zip>
+				82190
+			</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.9">
+		<Name>
+			Rocky Mountain
+		</Name>
+		<Phone>
+			970-586-1206
+		</Phone>
+		<Phone>
+			970-586-1222
+		</Phone>
+		<Phone>
+			877-444-6777
+		</Phone>
+		<Address NearestAirport="DIA">
+			<Number>
+				1000
+			</Number>
+			<Street>
+				U.S Highway 36
+			</Street>
+			<City>
+				Estes Park
+			</City>
+			<State>
+				CO
+			</State>
+			<Zip>
+				80517
+			</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.7">
+		<Name>
+			Death Valley
+		</Name>
+		<Phone>
+			760-786-3200
+		</Phone>
+		<Address NearestAirport="L06/DTH">
+			<Number>
+				P.O Box 579
+			</Number>
+			<Street>
+				CA-190
+			</Street>
+			<City>
+				Death Valley
+			</City>
+			<State>
+				CA
+			</State>
+			<Zip>
+				92328
+			</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.6">
+		<Name>
+			Wind Cave
+		</Name>
+		<Phone>
+			605-745-4600
+		</Phone>
+		<Phone>
+			605-745-4207
+		</Phone>
+		<Address NearestAirport="RAP">
+			<Number>
+				26611
+			</Number>
+			<Street>
+				US Highway 385
+			</Street>
+			<City>
+				Hot Springs
+			</City>
+			<State>
+				SD
+			</State>
+			<Zip>
+				57747
+			</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.7">
+		<Name>
+			Mammoth Cave
+		</Name>
+		<Phone>
+			270-758-2180
+		</Phone>
+		<Address NearestAirport="SDF">
+			<Number>
+				1 
+			</Number>
+			<Street>
+				Mammoth Cave Parkway
+			</Street>
+			<City>
+				Mammoth Cave 
+			</City>
+			<State>
+				KY
+			</State>
+			<Zip>
+				42259
+			</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.6">
+		<Name>
+			Everglades
+		</Name>
+		<Phone>
+			305-242-7700
+		</Phone>
+		<Phone>
+			305-221-8776
+		</Phone>
+		<Address NearestAirport="MIA">
+			<Number>
+				40001
+			</Number>
+			<Street>
+				State Road 9336
+			</Street>
+			<City>
+				Homestead
+			</City>
+			<State>
+				FL
+			</State>
+			<Zip>
+				33034
+			</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.7">
+		<Name>
+			Mesa Verde
+		</Name>
+		<Phone>
+			970-529-4465
+		</Phone>
+		<Address NearestAirport="CEZ">
+			<Number>
+				34840
+			</Number>
+			<Street>
+				US-160
+			</Street>
+			<City>
+				Mancos
+			</City>
+			<State>
+				CO
+			</State>
+			<Zip>
+				81328
+			</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>
+			Great Sand Dunes
+		</Name>
+		<Phone>
+			719-378-6395
+		</Phone>
+		<Address NearestAirport="ALS">
+			<Number>
+				11500
+			</Number>
+			<Street>
+				Highway 150
+			</Street>
+			<City>
+				Mosca
+			</City>
+			<State>
+				CO
+			</State>
+			<Zip>
+				81146
+			</Zip>
+		</Address>
+	</NationalPark>
+</NationalPark>
