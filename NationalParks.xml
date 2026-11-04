@@ -43,6 +43,9 @@
 		<Phone>
 			865-436-1200
 		</Phone>
+		<Phone>
+			865-436-7318
+		</Phone>
 		<Address NearestAirport="TYS">
 			<Number>
 				107
@@ -67,6 +70,9 @@
 		</Name>
 		<Phone>
 			435-772-3256
+		</Phone>
+		<Phone>
+			435-772-3213
 		</Phone>
 		<Address NearestAirport="SGU">
 			<Number>
@@ -155,6 +161,9 @@
 		<Phone>
 			760-786-3200
 		</Phone>
+		<Phone>
+			760-786-2441
+		</Phone>
 		<Address NearestAirport="L06/DTH">
 			<Number>
 				P.O Box 579
@@ -207,6 +216,9 @@
 		</Name>
 		<Phone>
 			270-758-2180
+		</Phone>
+		<Phone>
+			270-758-2424
 		</Phone>
 		<Address NearestAirport="SDF">
 			<Number>
@@ -261,6 +273,9 @@
 		<Phone>
 			970-529-4465
 		</Phone>
+		<Phone>
+			970-529-4637
+		</Phone>
 		<Address NearestAirport="CEZ">
 			<Number>
 				34840
@@ -285,6 +300,9 @@
 		</Name>
 		<Phone>
 			719-378-6395
+		</Phone>
+		<Phone>
+			719-378-6352
 		</Phone>
 		<Address NearestAirport="ALS">
 			<Number>
